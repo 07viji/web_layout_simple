@@ -1,0 +1,45 @@
+.all div{
+    padding: 20px 0;
+    text-align: center;
+    margin: 5px 0;
+}
+.green{
+    text-align: center;
+    background-color: green;
+    
+    
+}
+.blue{
+    background-color: rgba(40, 3, 82, 0.863);
+    float: left;
+    text-align:top;
+width:33.33%;
+height:200px;
+}
+.skyblue{
+    background-color: rgb(3, 110, 153);
+    float:left;
+    width:33.33%;
+    height:200px;
+}
+.orange{
+    background-color:orange;
+    width:33.33%;
+    text-align:top;
+    float:left;
+    height:200px;
+}
+.red{
+    background-color: rgb(235, 56, 56);
+    clear:both;
+    padding: 2%;
+    text-align: center;
+}
+h3{
+    text-align: center;
+    
+}
+*{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    overflow-x: auto;
+}
